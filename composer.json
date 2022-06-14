@@ -1,0 +1,18 @@
+{
+  "name": "dzoganik/erp-cli",
+  "version": "1.0.0",
+  "description": "CLI commands for ERP module.",
+  "type": "magento2-module",
+  "require": {
+    "magento/framework": "*",
+    "dzoganik/erp": "*"
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Dzoganik\\ErpCli\\": ""
+    }
+  }
+}
