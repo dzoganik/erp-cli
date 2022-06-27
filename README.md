@@ -1,6 +1,6 @@
 # Dzoganik_ErpCli Module
 
-Module for CLI commands for the Dzoganik_Erp module.
+Magento 2 module for CLI commands for the Dzoganik_Erp module.
 
 ## Commands
 
